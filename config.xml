@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[Put your id here]"
+        id          = "virtual-easter-egg-hunt-2020.ehan_inc.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>Virtual Easter Egg Hunt 2020</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+        An app made to help people connect during Easter and the COVID-19 pandemic
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
-        [Your Username]
+    <author href="http://scratch.mit.edu/users/EHAN_INC" email="ehan.inc.us@gmail.com">
+        EHAN_INC
     </author>
 
 </widget>
